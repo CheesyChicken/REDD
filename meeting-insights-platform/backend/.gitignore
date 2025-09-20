@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+app.db
+.storage/
+.chroma/
+.env
